@@ -1,0 +1,15 @@
+<root>
+    <listitem title="Classic Travel"     image="asset:///images/images-1.jpeg"/>
+    <listitem title="First Class"     image="asset:///images/images-2.jpeg"/>
+    <listitem title="Business Travel"     image="asset:///images/images-3.jpeg"/>
+    <listitem title="Second Class"     image="asset:///images/images-4.jpeg"/>
+    <listitem title="Acess Card"     image="asset:///images/images-5.jpeg"/>
+    <listitem title="Business"     image="asset:///images/images-6.jpeg"/>
+    <listitem title="Gold Select"     image="asset:///images/images-7.jpeg"/>
+    <listitem title="Payment Plus"     image="asset:///images/images-8.jpeg"/>
+    <listitem title="Venture"     image="asset:///images/images-9.jpeg"/>
+    <listitem title="US Dollar"    image="asset:///images/images-10.jpeg"/>
+    <listitem title="Vanicity enviro"    image="asset:///images/images-11.jpeg"/>
+    <listitem title="Gold Elite"    image="asset:///images/images-12.jpeg"/>    
+    
+</root>
